@@ -1,0 +1,6 @@
+{
+  "name": "FinWorld 3D — Mô Phỏng Thế Giới Phân Tích Tài Chính",
+  "description": "Mô phỏng thế giới 3D tương tác tập trung vào phân tích dòng tiền, biến động chiến tranh, lịch sử biến động, chiến lược điều tiết kinh tế, quản lý rủi ro danh mục, rủi ro pháp lý doanh nghiệp và quyết định đầu tư thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
